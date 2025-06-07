@@ -1,2 +1,3 @@
 New file
 Adding new line
+This line is written from feature branch
